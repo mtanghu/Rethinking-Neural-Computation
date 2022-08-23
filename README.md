@@ -1,5 +1,5 @@
 # Rethinking-Neural-Computation
-This is the code for the paper "Rethinking Neural Computation" under review at ICLR
+This is the code for the paper "Rethinking Neural Computation" under review at ICLR. Paper released is an early draft so as to not harm the double-blind peer review system.
 
 ## Abstract
 
