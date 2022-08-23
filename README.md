@@ -1,5 +1,5 @@
 # Rethinking-Neural-Computation
-This is the code for the paper "Rethinking Neural Computation" under review at AAAI
+This is the code for the paper "Rethinking Neural Computation" under review at ICLR
 
 ## Abstract
 
